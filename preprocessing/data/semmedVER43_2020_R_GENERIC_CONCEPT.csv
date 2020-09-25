@@ -1,0 +1,259 @@
+1983,C0001687,Adverse effects NEC
+1984,C0002526,"Amino Acids, Peptides, and Proteins"
+1985,C0003043,Animalia
+1986,C0003062,Animals
+1987,C0005515,Biological Factors
+1988,C0009566,Complication
+1989,C0012634,Disease
+1990,C0013227,Pharmaceutical Preparations
+1991,C0021521,Inorganic Chemicals
+1992,C0021948,Invertebrates
+1993,C0027361,Persons
+1994,C0027362,Human Age Group
+1995,C0027363,Occupational Groups
+1996,C0028622,"Nucleic Acids, Nucleotides, and Nucleosides"
+1997,C0029224,Organic Chemicals
+1998,C0029235,Organism
+1999,C0030705,Patients
+2000,C0039082,Syndrome
+2001,C0039796,The science and art of healing
+2002,C0087111,Therapeutic procedure
+2003,C0159028,[D]General symptoms
+2004,C0178310,"[D]Symptoms, signs and ill-defined conditions NOS"
+2005,C0178341,[V]Persons with a condition influencing their health status
+2006,C0178353,"Accidental poisoning by other solid and liquid substances, gases and vapours"
+2007,C0178355,"Medical and surgical procedures as the cause of abnormal reaction of patient or later complication, without mention of misadventure at the time of procedure"
+2008,C0178359,"Drugs, medicines and biological substances causing adverse effects in therapeutic use"
+2009,C0243192,agonists
+2010,C0422820,General sign qualifications
+2011,C0424450,General symptom description
+2012,C0436606,O/E - ethnic group NOS
+2013,C0442826,Physics values
+2014,C0476466,"[D]Other specified symptoms, signs or ill-defined conditions"
+2015,C0478681,[X]External causes of morbidity and mortality
+2016,C0478682,[X]Other external causes of accidental injury
+2017,C0480773,[X]Event of undetermined intent
+2018,C0481349,"[X]Other medical procedures causing abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+2019,C0481370,[X]Supplementary factors related to causes of morbidity and mortality classified elsewhere
+2020,C0557587,General categories of people
+2021,C0565657,Other disease/injury
+2022,C0580210,People in the healthcare environment
+2023,C0580211,People in the community environment
+2024,C0589603,Disorders following clinical procedure
+2025,C0596048,Age Group Unspecified
+2026,C0596090,animal age group
+2027,C0597010,Special Population
+2028,C0597237,Physical Phenomena or Properties
+2029,C0597240,physical state
+2030,C0677042,Pathology processes
+2031,C0687732,Prevention
+2032,C1257890,Population Group
+2033,C1258127,Enzymes and Coenzymes
+2034,C1318101,Animal Population Groups
+2035,C1457887,Symptoms
+2036,C1609432,manifestations of immunopathology
+2037,C0007634,Cells
+2038,C0020114,Human
+2039,C0237401,Individual
+2040,C0011900,Diagnosis
+2041,C1273869,Intervention regimes
+2042,C0449851,Techniques
+2043,C0277785,Functional disorder
+2044,C0184661,Procedures
+2045,C1273870,Management procedure
+2046,C0185125,Application procedure
+2047,C0879626,Adverse effects
+2048,C0004927,Behavior
+2049,C0936012,Analysis
+2050,C0311392,Physical findings
+2051,C0597198,Performance
+2052,C0018684,Health
+2053,C0042567,Vertebrates
+2054,C0029921,Outpatients
+2055,C0683971,General Population
+2056,C0016163,Fishes
+2057,C0024660,Mammals
+2058,C0687133,Drug Interactions
+2059,C0037080,Signal Pathways
+2060,C0680022,member
+2061,C1185740,Tract
+2062,C0871261,response
+2063,C0544461,Inactivation
+2064,C1260954,Morphologically altered structure
+2065,C0877248,Adverse event
+2066,C0242485,Measurement
+2067,C0205147,Region
+2068,C0486805,FRAGMENTS
+2069,C0005839,Blood supply aspects
+2070,C0021562,inpatient
+2071,C0205148,Surface
+2072,C0031843,physiological aspects
+2073,C0040223,Time
+2074,C0205145,Site
+2075,C0205400,Thickened
+2076,C0086388,Health Care
+2077,C0014406,Environment
+2078,C0520510,Materials
+2079,C0035168,research
+2080,C0029237,Physiological Organization
+2081,C0277784,"Biological function, NOS"
+2082,C0001779,Age
+2083,C0542559,contextual factors
+2084,C0035647,Risk
+2085,C0025664,Methodology
+2086,C0700287,Reporting
+2087,C0678587,steady state
+2088,C0205099,Central
+2089,C0205146,Area
+2090,C0237753,Numbers
+2091,C0441800,Grade
+2092,C0449719,Part
+2093,C0348026,Diagnostic
+2094,C0008902,Classification
+2095,C0586173,Clinical finding
+2096,C0332479,Shapes
+2097,C0807955,SLOPE
+2098,C0559546,Adverse reactions
+2099,C0031845,Physiological Processes
+2100,C0678594,Structure
+2101,C0439792,Extent
+2102,C0557854,Services
+2103,C1522240,Process
+2104,C1527144,Therapeutic Effect
+2105,C0449234,Attribute
+2106,C0542341,Function
+2107,C0079809,Measures
+2108,C0205094,Anterior
+2109,C0037455,Societies
+2110,C0025118,Medicine
+2111,C0441471,Events
+2112,C0441987,Side
+2113,C0439534,Dimensions
+2114,C0392360,Reason for
+2115,C0456603,Ratio
+2116,C0699733,Devices
+2117,C0036397,Science
+2118,C0725066,Advance
+2119,C0496675,"Medical care, unspecified"
+2120,C0282354,Descriptors
+2121,C0015127,Etiology aspects
+2122,C1273937,Not significant
+2123,C1368999,Late effect of
+2124,C0442804,Very high
+2125,C0449286,Degree or extent
+2126,C0205082,Severe
+2127,C0814472,co-treatment
+2128,C1551338,entity
+2129,C0599883,trait
+2130,C0450429,Location
+2131,C1299582,Unable
+2132,C0336791,Tool
+2133,C0443177,Classical
+2134,C0025080,Medical Devices
+2135,C1372798,Physiological Effects
+2136,C0028811,Occupations
+2137,C0205246,Generalized
+2138,C0449445,Approach
+2139,C0332185,Recent
+2140,C0332307,Type - attribute
+2141,C0443228,Largest
+2142,C1516635,Clinical Treatment
+2143,C0376636,Disease Management
+2144,C0221423,Finding / disorder
+2145,C0037778,Medical Specialities
+2146,C0199168,Medical service
+2147,C0008949,Clinic Activities
+2148,C0014442,Enzymes
+2149,C0456387,Class
+2150,C1265611,Quantity
+2151,C0243113,Instruments
+2152,C0549177,Large
+2153,C0229962,Body part
+2154,C0600686,related compounds
+2155,C1254351,Pharmacologic Substance
+2156,C0243095,Finding
+2157,C1444647,Wanted
+2158,C0033684,Proteins
+2159,C0338067,DISEASES/DIAGNOSES
+2160,C0441712,Mechanisms
+2161,C0679607,treatment method
+2162,C0808233,THERAPEUTIC RESULTS
+2163,C1373236,Physiological States
+2164,C0243082,associated conditions
+2165,C1306673,Stage
+2166,C1524062,Additional
+2167,C0002085,Alleles
+2168,C0243071,Analog
+2169,C0238767,Bilateral
+2170,C0005508,Biological Availability
+2171,C0392747,Changing
+2172,C0008633,Chromosomes
+2173,C0205195,Combined
+2174,C0205198,Compound
+2175,C0456205,Contents
+2176,C0521116,Current
+2177,C0011155,Deficiency
+2178,C1527240,Derivative
+2179,C1527148,Development
+2180,C0743223,Disposition
+2181,C0178602,Dosages
+2182,C1446466,Dose
+2183,C0013879,Elements
+2184,C0015295,Exons
+2185,C1521761,Factor
+2186,C1522492,Formation
+2187,C0017337,Genes
+2188,C0017428,Genome
+2189,C0017431,Genotype
+2190,C0079411,Generations
+2191,C0018591,Haplotypes
+2192,C0019932,Hormones
+2193,C0021149,Incidence
+2194,C0233077,inhibitors
+2195,C0021920,Introns
+2196,C0022173,Isoenzymes
+2197,C1517945,Loss
+2198,C0680220,majority
+2199,C0870883,Metabolites
+2200,C0567416,Molecule
+2201,C0596988,Mutant
+2202,C0243132,occurrence
+2203,C0029016,Oncogenes
+2204,C1550456,option
+2205,C0243123,biochemical pathways
+2206,C0030956,Peptides
+2207,C0851347,Pharmacodynamics
+2208,C0031328,Pharmacokinetic
+2209,C0031327,Drug Kinetics
+2210,C0031437,Phenotype
+2211,C1514468,product
+2212,C0033268,production
+2213,C0449258,Progression
+2214,C0871161,Property
+2215,C1521828,Rate
+2216,C0443286,Reaction
+2217,C1547039,*Relative
+2218,C1514873,Requirement
+2219,C0035668,RNA
+2220,C0439793,Severities
+2221,C0205171,Singular
+2222,C0449438,Status
+2223,C1547045,*Susceptibility
+2224,C0449913,System
+2225,C0042153,utilization qualifier
+2226,C0205419,Variant
+2227,C1441526,COMPUTED
+2228,C1140999,Contraction
+2229,C0679670,network
+2230,C0431085,[M]Unspecified tumor cell NOS
+2231,C1185625,Compartments
+2232,C1552130,16s
+2233,C1553702,neighbor
+2234,C1547020,*Difference
+2235,C0242114,SUSPICION
+2236,C0439165,Percent (qualifier value)
+2237,C0679646,Participant
+2238,C0599755,cohort
+2239,C0681850,Study Subject
+2240,6275,S100A4
+2241,6285,S100B

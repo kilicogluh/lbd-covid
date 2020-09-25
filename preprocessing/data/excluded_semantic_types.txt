@@ -1,0 +1,31 @@
+ACTI|Activities & Behaviors|T052|Activity|acty
+ACTI|Activities & Behaviors|T053|Behavior|bhvr
+ACTI|Activities & Behaviors|T051|Event|evnt
+ACTI|Activities & Behaviors|T064|Governmental or Regulatory Activity|gora
+ACTI|Activities & Behaviors|T066|Machine Activity|mcha
+ACTI|Activities & Behaviors|T057|Occupational Activity|ocac
+CONC|Concepts & Ideas|T185|Classification|clas
+CONC|Concepts & Ideas|T077|Conceptual Entity|cnce
+CONC|Concepts & Ideas|T169|Functional Concept|ftcn
+CONC|Concepts & Ideas|T102|Group Attribute|grpa
+CONC|Concepts & Ideas|T078|Idea or Concept|idcn
+CONC|Concepts & Ideas|T170|Intellectual Product|inpr
+CONC|Concepts & Ideas|T171|Language|lang
+CONC|Concepts & Ideas|T080|Qualitative Concept|qlco
+CONC|Concepts & Ideas|T081|Quantitative Concept|qnco
+CONC|Concepts & Ideas|T089|Regulation or Law|rnlw
+CONC|Concepts & Ideas|T082|Spatial Concept|spco
+CONC|Concepts & Ideas|T079|Temporal Concept|tmco
+OBJC|Objects|T071|Entity|enty
+OBJC|Objects|T073|Manufactured Object|mnob
+OBJC|Objects|T072|Physical Object|phob
+OCCU|Occupations|T091|Biomedical Occupation or Discipline|bmod
+OCCU|Occupations|T090|Occupation or Discipline|ocdi
+ORGA|Organizations|T093|Health Care Related Organization|hcro
+ORGA|Organizations|T092|Organization|orgt
+ORGA|Organizations|T094|Professional Society|pros
+ORGA|Organizations|T095|Self-help or Relief Organization|shro
+PHEN|Phenomena|T069|Environmental Effect of Humans|eehu
+PHEN|Phenomena|T068|Human-caused Phenomenon or Process|hcpp
+PHEN|Phenomena|T070|Natural Phenomenon or Process|npop
+PHEN|Phenomena|T067|Phenomenon or Process|phpr
