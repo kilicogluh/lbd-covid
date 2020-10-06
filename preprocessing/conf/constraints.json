@@ -267,10 +267,15 @@
         "PREVENTS",
         "PRODUCES",
         "TREATS",
-        "USES",
         "INTERACTS_WITH",
         "STIMULATES",
-        "INHIBITS"
+        "INHIBITS",
+        "CAUSES",
+        "PREDISPOSES",
+        "ASSOCIATED_WITH",
+        "DISRUPTS",
+        "AUGMENTS",
+        "AFFECTS"
     ],
     "directed_predicates": [
         "INTERACTS_WITH",
