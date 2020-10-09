@@ -1,0 +1,417 @@
+C0020336|Hydroxychloroquine
+C0052796|Azithromycin
+C1609165|tocilizumab
+C0022322|Ivermectin
+C0939237|Lopinavir+ritonavir
+C0068788|nitazoxanide
+C0025815|Methylprednisolone
+C0596007|Hydroxychloroquine Sulfate
+C0206460|Enoxaparin
+C0003968|Ascorbic Acid
+C0009262|Colchicine
+C0043481|Zinc
+C0011777|Dexamethasone
+C0126174|Losartan
+C0008269|Chloroquine
+C0129975|N,N-dimethylcarbamoylmethyl-4-(4-guanidinobenzoyloxy)phenylacetate methanesulfonate
+C0025619|Mesylates
+C0245109|anakinra
+C0874161|Oseltamivir
+C0042866|Vitamin D
+C0032857|Povidone-Iodine
+C0244713|interferon beta-1b
+C0254119|Interferon beta-1a
+C0013090|Doxycycline
+C0019139|Heparin, Low-Molecular-Weight
+C0032952|Prednisone
+C0028128|Nitric Oxide
+C0025219|Melatonin
+C0020268|Hydrocortisone
+C0008318|Cholecalciferol
+C0042849|Vitamin B Complex
+C0003281|anticoagulation
+C0248719|telmisartan
+C0216231|sargramostim
+C0035525|Ribavirin
+C0982327|PEGINTERFERON
+C0207682|nafamostat mesilate
+C0001047|Acetylcysteine
+C0038785|Sulfuric Acid Esters
+C1125266|Hydroxychloroquine 200 MG
+C0019134|Heparin
+C0010592|Cyclosporine
+C0055447|chloroquine diphosphate
+C0004886|BCG Vaccine
+C0004057|Aspirin
+C0003015|Angiotensin-Converting Enzyme Inhibitors
+C0040613|Tranexamic Acid
+C1533685|Injection procedure
+C0076612|thymalfasin
+C0032113|Plasma Exchange
+C0039736|Thalidomide
+C0074722|Sodium Bicarbonate
+C0074554|Simvastatin
+C0074414|sevoflurane
+C1098515|aviptadil
+C0009429|Combined Modality Therapy
+C0072768|pyronaridine
+C0052432|artesunate
+C0251564|Pulmozyme
+C0030899|Pentoxifylline
+C0030054|Oxygen
+C0301294|Nitrogen gas
+C1249284|Niclosamide Oral Tablet
+C0700546|6 alpha-Methylprednisolone Sodium Hemisuccinate
+C0023556|Levamisole
+C0795760|Isoprinosin
+C0063041|leflunomide
+C0021761|Interleukin-7
+C0699177|Plaquenil
+C0689151|Hydroxychloroquine 200 MG Oral Tablet
+C0358321|Human immunoglobulin
+|
+C0016365|Fluoxetine
+C0060397|fisetin
+C0985942|Famotidine 20 MG
+C0015620|Famotidine
+C1246056|Enoxaparin Injectable Solution
+C1541483|eculizumab
+C0058903|ebselen
+C1135662|recombinant human DNase
+C0308803|DEXAMETHASONE INJECTION
+C0011145|Deferoxamine
+C0001617|Adrenal Cortex Hormones
+C0070166|clopidogrel
+C0907850|ciclesonide
+C0700447|Chloroquine Sulfate
+C0006863|Cannabidiol
+C0280509|brequinar
+C1164979|bicalutamide 150 MG Oral Tablet
+C0796392|bevacizumab
+C1512523|hydrochloride
+C0702029|Virazole
+C0017007|Gamma globulin
+C0678143|Zithromax
+C0078794|Zinc Sulfate
+C0772239|ZINC CITRATE
+C0043047|Water
+C0042890|Vitamins
+C0042874|Vitamin E
+C0042845|Vitamin B 12
+C0042523|Verapamil
+C0033567|Epoprostenol
+C0216784|valsartan
+C0719949|Diovan
+C0080356|Valproate
+C0077906|urinastatin
+C0041044|Trimethoprim-Sulfamethoxazole Combination
+C0087111|Therapeutic procedure
+C0113293|Dexmedetomidine
+C0199176|Prophylactic treatment
+C1453926|trans-sodium crocetinate
+C0040610|Tramadol
+C0003191|Antirheumatic Agents
+C0076836|Toremifene
+C0939487|TNKase
+C0032143|Alteplase
+C0247025|tirofiban
+C0216278|tinzaparin
+C0040106|Thymosin
+C1098510|fondaparinux
+C0541746|Thiazides
+C0012798|Diuretics
+C0013227|Pharmaceutical Preparations
+C0076316|tetrandrine
+C0384228|Tenofovir
+C0909839|emtricitabine
+C0872913|Tenecteplase
+C1248097|telmisartan Oral Tablet
+C0903411|tafenoquine
+C0085149|Tacrolimus
+C0037633|Solutions
+C0000970|Acetaminophen
+C0034085|Pulmonary Surfactants
+C0344211|Supportive care
+C0061450|glucuronyl glucosamine glycan sulfate
+C0076328|tetraphenylporphine sulfonate
+C0359299|sterile water
+C0445115|Normal saline
+C0360714|Hydroxymethylglutaryl-CoA Reductase Inhibitors
+C0007220|Cardiovascular Agents
+C0965129|rosuvastatin
+C0051844|angiogenin
+C0037982|Spironolactone
+C0037532|Sodium Nitrite
+C1298517|Sodium chloride 9mg
+C0299250|Cytokine Inducible SH2-Containing Protein
+C0020823|Ifosfamide
+C0244221|Sn protoporphyrin
+C1448598|SKIL protein, human
+C1166235|Sirolimus 1 MG
+C0037135|Silymarin
+C0724693|Sildenafil citrate
+C0529793|sildenafil
+C0042210|Vaccines
+C0037494|Sodium Chloride
+C0036082|Saline
+C0292818|Ritonavir
+C0674432|lopinavir
+C0073386|Ringer's solution
+C0243077|inhibitors
+C0021735|Interferon Alfa-2b
+C0544357|Human plasma
+C0061187|Gelsolin
+C1522537|Recombinant Interferon
+C1154182|Spray
+C0751598|Recombinant Interferon Alfa
+C0022709|Peptidyl-Dipeptidase A
+C0597357|receptor
+C0014442|Enzymes
+C0072980|Sirolimus (substance)
+C0690272|Ramipril 2.5 MG Oral Capsule
+C1565316|ramelteon
+C0123091|quetiapine
+C0034392|Quercetin
+C0034262|Pyridostigmine Bromide
+C0011522|Deoxyribonucleases
+C0011519|Deoxyribonuclease I
+C0282321|Propranolol Hydrochloride
+C0033487|Propofol
+C0022942|Lactoferrin
+C0701947|Prolastin
+C0992824|Progesterone 100 MG
+C0305834|Prednisone Oral Tablet [Deltasone]
+C0032912|Prazosin
+C1620287|prasugrel
+C0305458|Betadine Solution
+C0722722|Povidine
+C0021968|Iodine
+C0771648|Poractant alfa
+C0698978|Hydroxychloroquine 200 MG Oral Tablet [Plaquenil]
+C0071649|polyphenols
+C0658922|methionylmethylsulfonium chloride
+C0032042|Placebos
+C0250480|piperacillin-tazobactam combination product
+C1127433|pioglitazone 30 MG
+C0071097|pioglitazone
+C0021747|Interferons
+C0282682|Antibodies, Blocking
+C0030095|Oxytocin
+C0350411|Oxygen gas
+C0360369|Oral form sulfamethoxazole+trimethoprim
+C0001563|Administration, Oral
+C0359916|Phenolics
+C0682997|Monoterpenes
+C0006657|Calcifediol
+C0028978|Omeprazole
+C0015689|Fatty Acids, Omega-3
+C0304097|caraway oil
+C1015216|Cinchona pubescens
+C0731209|Octagam
+C0063340|ifenprodil
+C0574032|Infusion procedures
+C0003364|Antihypertensive Agents
+C1145759|Atazanavir
+C1378220|nitazoxanide Oral Tablet
+C1378222|nitazoxanide 500 MG
+C0028017|Niclosamide
+C0027866|Neuromuscular Blocking Agents
+C0027360|Naltrexone
+C1332002|ABCG2 gene
+C0721476|M-M-R II
+C0536495|moxifloxacin
+C0282386|Levofloxacin
+C0205679|Montmorrillonite
+C0298130|montelukast
+C1253002|mometasone furoate Nasal Spray
+C0218633|molgramostim
+C0669247|microcrystalline cellulose
+C0086466|Injectables
+C0775281|Methylprednisolone 80 MG/ML Injectable Suspension
+C0025746|Methylene blue
+C0025677|Methotrexate
+C0025598|Metformin
+C1334531|MSC gene
+C1259637|Merimepodib
+C0025241|Melphalan
+C0025153|Mefloquine
+C0199470|Mechanical ventilation
+C0065828|Measles-Mumps-Rubella Vaccine
+C0024730|Mannitol
+C0030956|Peptides
+C0728963|Lovenox
+C0254211|arbidol
+C0013162|Drug Combinations
+C0939357|Kaletra
+C0002199|Interferon-alpha
+C0065081|Listerine
+C0002191|alpha 1-Antitrypsin
+C0540321|Liberase
+C1276807|Budesonide + formoterol
+C1144149|lenalidomide
+C0052176|apolactoferrin
+C0008864|Citrulline
+C1132059|Ketotifen 1 MG
+C0022614|Ketamine
+C1171350|kinase inhibitor
+C0085297|Immunoglobulins, Intravenous
+C0693766|Ivermectin 6 MG Oral Tablet
+C0978016|Ivermectin 3 MG Oral Tablet
+C0310206|STERILE SALINE SOLUTION
+C0021440|Intravenous infusion procedures
+C0022265|Isotretinoin
+C0064091|Isoton
+C0022180|Isoflurane
+C0022030|iota-Carrageenan
+C0412775|Intravenous sedation
+C0683092|INTRAVENOUS DRUG
+C0037513|Heparin sodium
+C0021760|Interleukin-6
+C0015980|Interferon-beta
+C0021641|Insulin
+C0040808|Treatment Protocols
+C0669372|NOS2A protein, human
+C0021743|Interferon Type I
+C0079594|Iloprost
+C0020740|Ibuprofen
+C0054201|Budesonide
+C0666743|infliximab
+C0021246|Indomethacin
+C0021081|Immunosuppressive Agents
+C0021027|Immunoglobulins
+C0935989|imatinib
+C0939537|Imatinib mesylate
+C0246269|icatibant
+C0123047|ibudilast
+C0249692|HIV hyperimmune globulin
+C0279328|hyperbaric oxygen
+C0008947|Clindamycin
+C0033126|Primaquine
+C1370448|Hydroxychloroquine 400 MG
+C1443861|Post-exposure prophylaxis
+C0037688|Sorbitol
+C0178555|cofactor
+C1515075|Supplementation
+C0019392|Hesperidin
+C0012498|Diosmin
+C0439962|Mixture
+C0043474|Zidovudine
+C0037663|Somatotropin
+C0017725|Glucose
+C0015527|Factor XIIa
+C0003250|Monoclonal Antibodies
+C1451114|Gamunex
+C0016410|Folic Acid
+C0118004|FMC protocol
+C0085228|Fluvoxamine
+C1328025|pertuzumab
+C0728747|trastuzumab
+C0015236|Exchange Transfusion, Whole Blood
+C0015133|Etoposide
+C0001962|Ethanol
+C0279494|Oestrogen therapy
+C0939333|Estradiol Transdermal Patch
+C0028910|Oils, Volatile
+C0014838|Escin
+C0724579|Enoxaparin sodium
+C1532298|Emtricitabine + tenofovir
+C1331249|emtricitabine 200 MG
+C0000545|Eicosapentaenoic Acid
+C0754659|Dutasteride
+C0771947|DOXYCYCLINE HYDROCHLORIDE
+C0206461|Dalteparin
+C0037473|Sodium
+C0012772|Disulfiram
+C0790233|WATER,DISTILLED
+C0242708|Antirheumatic Drugs, Disease-Modifying
+C0732279|Dipyridamole+aspirin
+C0012582|Dipyridamole
+C0012522|Diphenhydramine
+C0038179|Starch
+C0086145|Dialyzable Leukocyte Extract
+C0591350|Desferal
+C1455035|degarelix
+C0057257|defibrotide
+C0444889|Continuous infusion
+C0049065|5-aza-2'-deoxycytidine
+C0111318|Curosurf
+C1334128|ILK gene
+C0199451|Continuous Positive Airway Pressure
+C0022100|Irrigation
+C0001712|Aerosols
+C0067033|Proteinase 3
+C0206074|Renal Replacement Therapy
+C0032375|Poliovirus Vaccine, Oral
+C0907857|collagen-PVP
+C0786121|Colchicine 1 MG Oral Tablet
+C0985105|Colchicine 0.5 MG
+C0008996|Clofazimine
+C0045212|2'-fluoro-5-methylarabinosyluracil
+C0055856|Clarithromycin
+C1174745|Alvesco
+C0008286|Chlorpromazine
+C1242247|Chloroquine Oral Tablet [Aralen Phosphate]
+C0243071|Analog
+C0055370|chlorine dioxide
+C0013216|Pharmacotherapy
+C0007561|Ceftriaxone
+C0006938|Captopril
+C0717550|candesartan
+C0006684|Calcium Channel Blockers
+C0418992|Dry powder inhaler
+C0073917|bucillamine
+C0054145|Broncho-Vaxom
+C1245161|Bromhexine Oral Tablet
+C0005647|Bromhexine Hydrochloride
+C0006220|Bromhexine
+C1126877|Bromhexine 8 MG
+C0006217|Bromelains
+C0033488|Propolis
+C1295507|Bontoxilysin
+C0003242|Antibodies, Anti-Idiotypic
+C0168273|bivalirudin
+C0003451|Antiviral Agents
+C0003232|Antibiotics
+C0005117|Berberine
+C0916062|bemiparin
+C1366544|ROR2 gene
+C0006222|Bromides
+C0054066|Amoxicillin-Potassium Clavulanate Combination
+C1245010|Azithromycin Oral Tablet
+C0542997|Azithromycin 250 MG Oral Capsule
+C0983950|Azithromycin 250 MG
+C0165603|atovaquone
+C0286651|atorvastatin
+C1244642|atorvastatin Oral Tablet
+C0012373|Diltiazem
+C0983882|Aspirin 81 MG
+C0002641|Amodiaquine
+C0052430|artemisinine
+C0048470|argatroban
+C0003641|Aprotinin
+C1176306|aprepitant
+C0014020|Emulsions
+C0078040|doxorubicin/prednisone/vincristine protocol
+C0003280|Anticoagulants
+C0150457|Anticoagulant therapy
+C0063355|IgY
+C0021009|Immunoglobulin Fragments
+C0003011|Receptor, Angiotensin II
+C0003018|Angiotensins
+C0034787|Angiotensin Receptor
+C0003009|Angiotensin II
+C0003006|Angiotensin I
+C0002335|Alprostadil
+C1170364|Kineret
+C0051696|Amlodipine
+C0002598|Amiodarone
+C1176329|ambrisentan
+C0701942|Activase
+C0072348|Protein C Inhibitor
+C0002164|Almitrine
+C0039286|Tamoxifen
+C0040845|Tretinoin
+C0001559|Inhalation Drug Administration
+C1619966|abatacept
+C0008586|Chromogranins
+C0008196|Chlorhexidine

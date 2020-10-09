@@ -1,0 +1,1119 @@
+hydroxychloroquine|103
+azithromycin|37
+tocilizumab|30
+remdesivir|25
+ivermectin|21
+favipiravir|21
+standard of care|19
+lopinavir/ritonavir|15
+convalescent plasma|14
+nitazoxanide|13
+methylprednisolone|13
+hydroxychloroquine sulfate|13
+enoxaparin|13
+vitamin c|11
+colchicine|11
+zinc|9
+ruxolitinib|9
+drug|9
+dexamethasone|9
+losartan|8
+chloroquine|8
+camostat mesilate|7
+baricitinib|7
+anakinra|7
+standard treatment|6
+oseltamivir|6
+normal saline|6
+vitamin d|5
+standard medical treatment|5
+sarilumab|5
+rivaroxaban|5
+povidone-iodine|5
+placebo|5
+mavrilimumab|5
+ly3819253|5
+lopinavir / ritonavir|5
+interferon beta-1b|5
+interferon beta-1a|5
+hydroxychloroquine (hcq)|5
+doxycycline|5
+das181|5
+clazakizumab|5
+chloroquine or hydroxychloroquine|5
+unfractionated heparin|4
+standard of care (soc)|4
+prednisone|4
+opaganib|4
+nitric oxide|4
+melatonin|4
+hydroxychloroquine + azithromycin|4
+hydrocortisone|4
+hcq|4
+colchicine tablets|4
+cholecalciferol|4
+vitamin super b-complex|3
+vitamin d3|3
+tofacitinib|3
+therapeutic anticoagulation|3
+telmisartan|3
+suspension of heat killed (autoclaved) mycobacterium w|3
+standard therapy|3
+selinexor|3
+sargramostim|3
+ribavirin|3
+remestemcel-l|3
+peginterferon lambda-1a|3
+nivolumab|3
+nitric oxide gas|3
+nafamostat mesilate|3
+n-acetyl cysteine|3
+low molecular weight heparin|3
+hydroxychloroquine sulfate 200 mg|3
+hydroxychloroquine and azithromycin|3
+heparin|3
+eidd-2801|3
+cyclosporine|3
+chloroquine phosphate|3
+canakinumab|3
+bcg vaccine|3
+aspirin|3
+ascorbic acid|3
+ace inhibitor|3
+acalabrutinib|3
+2|3
+1|3
+tranexamic acid|2
+tofacitinib 10 mg|2
+tocilizumab injection|2
+tocilizumab (tcz)|2
+thymalfasin|2
+therapeutic plasma exchange|2
+thalidomide|2
+td-0903|2
+sofosbuvir/daclatasvir|2
+sofosbuvir|2
+sodium bicarbonate|2
+sivomixx (200 billion)|2
+sirolimus|2
+single dose of hydroxychloroquine|2
+simvastatin|2
+siltuximab|2
+sevoflurane|2
+ruxolitinib oral tablet|2
+rlf-100 (aviptadil)|2
+remdesivir placebo|2
+regn10933+regn10987 combination therapy|2
+ravulizumab|2
+pyronaridine-artesunate|2
+pulmozyme|2
+pul-042 inhalation solution|2
+plasma|2
+peripheral blood draw|2
+pentoxifylline|2
+oxygen|2
+olokizumab 64 mg|2
+nitrogen gas|2
+nigella sativa / black cumin|2
+niclosamide oral tablet|2
+n-acetylcysteine|2
+molnupiravir|2
+methylprednisolone sodium succinate|2
+mesenchymal stem cells|2
+lopinavir-ritonavir|2
+levamisole and isoprinosine|2
+leronlimab (700mg)|2
+lenzilumab|2
+leflunomide|2
+l-ascorbic acid|2
+ivermectin pill|2
+ivermectin oral product|2
+ivermectin and doxycycline|2
+interleukin-7|2
+imu-838|2
+icosapent ethyl|2
+ibrutinib|2
+hydroxychloroquine sulfate tablets|2
+hydroxychloroquine sulfate regular dose|2
+hydroxychloroquine sulfate loading dose|2
+hydroxychloroquine sulfate 200 mg [plaquenil]|2
+hydroxychloroquine 200 mg oral tablet|2
+hydroxychloroquine - weekly dosing|2
+hydroxychloroquine - daily dosing|2
+human immunoglobulin|2
+hormones|2
+hb-admscs|2
+guduchi ghan vati|2
+fluoxetine|2
+fisetin|2
+famotidine 20 mg|2
+famotidine|2
+enoxaparin 40 mg/0.4 ml injectable solution|2
+edp1815|2
+eculizumab|2
+ec-18|2
+ebselen|2
+early-dexamethasone|2
+dwrx2003|2
+duvelisib|2
+drugs|2
+dornase alfa inhalation solution [pulmozyme]|2
+dexamethasone injection|2
+deferoxamine|2
+daclatasvir|2
+cyt107|2
+crizanlizumab|2
+corticosteroid|2
+convalescent plasma transfusion|2
+control group|2
+control|2
+clopidogrel|2
+ciclesonide|2
+chloroquine sulfate|2
+chloroquine diphosphate|2
+cannabidiol|2
+brequinar|2
+bicalutamide 150 mg oral tablet|2
+bevacizumab injection|2
+baricitinib oral tablet|2
+azithromycin tablets|2
+avigan 200 mg film tablets|2
+arb|2
+acetylsalicylic acid|2
+abidol hydrochloride|2
+50 mg/ml virazole|2
+100 mg/ml virazole|2
+γ-globulin|1
+zithromax oral product|1
+zinc sulfate|1
+zinc citrate|1
+zilucoplan®|1
+zavegepant (bhv-3500)|1
+zanubrutinib|1
+yinhu qingwen granula|1
+yinhu qingwen decoction(low dose)|1
+yinhu qingwen decoction|1
+yin hu qing wen granula(low does)|1
+xpro1595|1
+xiyanping injection|1
+xcel-umc-beta|1
+xc221|1
+xav-19|1
+wharton's jelly derived mesenchymal stem cells.|1
+wfi water nebulization|1
+vitamins|1
+vitamin e|1
+vitamin d 1000 iu|1
+vitamin c tablets|1
+vitamin b12|1
+vit d|1
+vir-7831|1
+vib7734|1
+veru-111|1
+verapamil|1
+ventaprost (inhaled epoprostenol delivered via a dedicated delivery system)|1
+vc|1
+valsartan (diovan)|1
+valproate|1
+vadadustat|1
+uttr1147a|1
+usual care|1
+unikinon (chloroquine phosphate) 200mg tablets|1
+uni911 inhalation|1
+unfractionated heparin sc|1
+unfractionated heparin nebulized|1
+unfractionated heparin iv|1
+umifenovir|1
+umbilical cord mesenchymal stem cells|1
+ulinastatin|1
+uc-mscs|1
+txa127|1
+trimodulin|1
+trimethoprim/sulfamethoxazole|1
+treatment with dexmedetomidine|1
+treatment group|1
+treatment as usual vitamin d|1
+treatment and prophylaxis|1
+treamid|1
+transfusion of standard plasma.|1
+transfusion of sars-cov-2 convalescent plasma.|1
+transfusion of covid-19 convalescent plasma|1
+trans sodium crocetinate|1
+tranexamic acid tablets|1
+tramadol|1
+traditional chinese medicine prescription|1
+traditional antirheumatic drugs|1
+tradipitant|1
+toremifene|1
+topical steroids and cyclosporin-a|1
+tomeka®|1
+tocilizumab prefilled syringe|1
+tocilizumab injection [actemra]|1
+tocilizumab and ruxolitinib (advanced stage 3)|1
+tocilizumab 20 mg/ml intravenous solution [actemra]_#1 (2 doses)|1
+tocilizumab 20 mg/ml intravenous solution [actemra]_#1|1
+tocilizumab 20 mg/ml intravenous solution [actemra]|1
+tocilizumab 180 mg/ml|1
+tocilizumab +/- ruxolitinib (stages 2b/3)|1
+tociliuzumab|1
+tnkase|1
+tj003234|1
+tissue plasminogen activator|1
+tirofiban injection|1
+tinzaparin or unfractionated heparin|1
+thymosin+standard treatment|1
+thymosin alpha 1|1
+thromboprophylaxis with low-molecular-weight heparin or fondaparinux|1
+thromboprophylaxis|1
+thiazide or thiazide-like diuretics|1
+theraputic heparin|1
+the usual treatment|1
+the standard of care|1
+the pop02 study is collecting bodily fluid samples (i.e., whole blood, effluent samples) of children prescribed the following drugs of interest per standard of care|1
+tetrandrine|1
+test|1
+tenofovir/ emtricitabine ( 300 mg / 200 mg daily during 60 days) + personal protective equipment (ppe)|1
+tenecteplase|1
+ten-days oseltamivir|1
+telmisartan arm will receive 80 mg telmisartan twice daily plus standard care.|1
+telmisartan 40mg oral tablet|1
+telmisartan 40mg|1
+td139|1
+tcm prescriptions|1
+tak-981|1
+tak-671|1
+tafenoquine oral tablet|1
+tacrolimus|1
+t89|1
+t3 solution for injection|1
+synthetic neutralising antibodies|1
+symptomatic treatment (paracetamol or best symptomatic treatment based on doctor recommendations)|1
+symptomatic drugs|1
+surfactant|1
+supportive care|1
+supportive and symptomatic treatment|1
+support treatment|1
+sulodexide|1
+sulfonatoporphyrin(tpps) plus sunlight exposure.|1
+sti-5656|1
+sterile water for injection|1
+sterile normal saline for intravenous use|1
+stem cell product|1
+statins (cardiovascular agents)|1
+standards of care|1
+standard-of-care treatment|1
+standard therapy protocol (stp)|1
+standard therapy of covid-19|1
+standard therapy for covid-19 according to the stablished hospital protocols.|1
+standard therapeutic protocol|1
+standard prophylactic dose enoxaparin/ unfractionated heparin|1
+standard procedure|1
+standard of care treatment|1
+standard of care thromboprophylaxis|1
+standard of care therapy|1
+standard of care for sars-cov-2 infection|1
+standard of care (soc) and colchicine+rosuvastatin|1
+standard of care (soc) + ang-3777|1
+standard covid-19 therapies|1
+standard concomitant therapy|1
+standard care|1
+standard (specific) therapy for covid-19|1
+standar medical treatmen|1
+spironolactone 100mg|1
+sofusbuvir + daclastavir 60 mg|1
+sofosbuvir plus ledipasvir|1
+sofosbuvir and ledipasvir|1
+sofosbuvir 400 mg plus daclatasvir 200mg|1
+sofosbuvir + daclatasvir 120 mg|1
+sodium nitrite|1
+sodium chloride 9mg/ml|1
+soc + intravenous famotidine|1
+soc + ifx-1|1
+snpp protoporphyrin plus sunlight exposure|1
+sno|1
+sng001|1
+sndx-6352|1
+sitagliptin|1
+sirukumab|1
+sirolimus 1 mg/ml|1
+single high dose vitamin d|1
+silymarin|1
+sildenafil citrate tablets|1
+sildenafil|1
+shock-dependent hydrocortisone|1
+shingrix (zoster vaccine recombinant, adjuvanted)|1
+sevoflurane inhalant product|1
+secukinumab 150 mg/ml subcutaneous solution [cosentyx]|1
+sars-cov-2 plasma|1
+sarilumab sar153191|1
+sarilumab prefilled syringe|1
+sarilumab 400 mg/2.28 ml subcutaneous solution [kevzara]|1
+sarilumab 200 mg/1.14 ml subcutaneous solution [kevzara]|1
+sar443122|1
+saline oral/nasal rinse|1
+saline|1
+ruxolitinib plus simvastatin|1
+ruxolitinib administration|1
+ruxolitinib 5 mg|1
+ruconest|1
+rtb101|1
+rph-104 80 mg|1
+rosuvastatin|1
+roactemra sc|1
+roactemra iv|1
+rls-0071|1
+rivaroxaban 2.5 mg|1
+ritonavir/lopinavir|1
+ritonavir+oseltamivir|1
+ritonavir|1
+rintatolimod|1
+ringer solution|1
+rhtpo|1
+rhdnase i|1
+rhace2 apn01|1
+retrospective case-control analysis|1
+resp301, a nitric oxide generating solution|1
+renin-angiotensin system inhibitors|1
+remdesivir (rdv)|1
+regn10933+regn10987|1
+regn10933 + regn10987|1
+reference|1
+recombinant interferon alfa-2b|1
+recombinant human plasma gelsolin (rhu-pgsn)|1
+recombinant human interferon α2b spray|1
+recombinant human interferon α1β|1
+recombinant human interferon alpha-1b|1
+recombinant human angiotensin-converting enzyme 2 (rhace2)|1
+recombinant bacterial ace2 receptors -like enzyme of b38-cap (rbace2)|1
+rdv|1
+rbt-9 (90 mg)|1
+razuprotafib subcutaneous solution|1
+razuprotafib|1
+rayaldee 30mcg extended-release (er) capsule|1
+rapamycin|1
+random donor plasma|1
+ramipril 2.5 mg oral capsule|1
+ramelteon 8mg|1
+quetiapine|1
+quercetin phytosome|1
+quercetin|1
+pyridostigmine bromide|1
+pulmozyme/ recombinant human deoxyribonuclease (rh-dnase)|1
+ptc299|1
+proxalutamide|1
+propranolol hydrochloride|1
+propofol|1
+prophylactic/intermediate dose enoxaparin|1
+prophylactic lactoferrin daily|1
+prophylactic heparin|1
+prolastin|1
+progesterone 100 mg|1
+previfenon®|1
+prednisone tablet|1
+prazosin|1
+prasugrel hydrochloride 10 mg oral tablet|1
+povidone-iodine solution 1.25% w/w [0.125% available iodine] usp|1
+povidone-iodine nasal spray and gargle|1
+povidone-iodine 2%|1
+povidone-iodine 0.6% ns|1
+povidone-iodine 0.6% ni|1
+povidone-iodine 0.5% ns|1
+povidone-iodine 0.5% ni|1
+povidone-iodine 0.5%|1
+povidone-iodine 0.4% ni|1
+povidine iodine nasal swabs|1
+poractant alfa|1
+polyoxidonium|1
+pln-74809|1
+plitidepsin 2.5 mg/day|1
+plitidepsin 2.0 mg/day|1
+plitidepsin 1.5 mg/day|1
+plasma from covid-19 convalescent patient|1
+plasma from convalescent patients with covid-19|1
+plasma exchange|1
+plaquenil 200mg tablet|1
+plant polyphenol|1
+placenta-derived mmscs; cryopreserved placenta-derived multipotent mesenchymal stromal cells|1
+placebo for clazakizumab|1
+placebo capsules|1
+piperacillin/tazobactam|1
+piperacillin-tazobactam|1
+pioglitazone 30 mg|1
+pioglitazone|1
+piclidenoson|1
+physiological saline solution|1
+phr160 spray|1
+ph94b|1
+pf-07304814|1
+pf-06650833|1
+pemziviptadil (pb1046)|1
+pembrolizumab (mk-3475)|1
+pegylated interferon-α2b|1
+pegylated interferon lambda|1
+peginterferon lambda alfa-1a subcutaneous injection|1
+pd-1 blocking antibody+standard treatment|1
+patients with the treatment agains covid19|1
+part 2 - tl-895|1
+part 1 - tl-895|1
+paracetamol|1
+pamrevlumab|1
+pacritinib|1
+p2et (caesalpinia spinosa extract)|1
+ozanimod|1
+oxytocin|1
+oxygen gas|1
+otilimab|1
+osoc|1
+oseltamivir 75mg|1
+oral-b mouth sore mouthwash|1
+oral co-trimoxazole|1
+oral administration of colchicine plus herbal phenolic monoterpene fractions|1
+oral 25-hydroxyvitamin d3|1
+oral|1
+ophtamesone|1
+op-101|1
+only standard treatment|1
+omeprazole 20mg|1
+omega-3 fatty acid supplement|1
+omega 3/nigella sativa oil/quinine pills|1
+omega 3/nigella sativa oil/indian costus|1
+omega 3/nigella sativa oil/deglycyrrhizinated licorice|1
+omega 3/nigella sativa oil/anise seed capsule|1
+omega 3/nigella sativa oil|1
+octagam|1
+observational|1
+nuvastatic|1
+nusepin® 0.2 mg|1
+nusepin® 0.1 mg|1
+nt-i7|1
+np-120 (ifenprodil)|1
+nox66|1
+nors (nitric oxide releasing solution)|1
+normal saline infusion + standard of care|1
+non-ras blocking antihypertensives|1
+non-acei/arb|1
+no-immunosuppressive|1
+nk-1r antagonist|1
+nivolumab injection|1
+nitric oxide-sessions|1
+nitric oxide-releasing drug|1
+nitric oxide-continuous and sessions|1
+nitric oxide 0.5 % / nitrogen 99.5 % gas for inhalation|1
+nitazoxanide with ivermectin|1
+nitazoxanide tablets|1
+nitazoxanide and atazanavir/ritonavir|1
+nitazoxanide 500mg oral tablet|1
+nitazoxanide 500 mg|1
+nintedanib 150 mg [ofev]|1
+nintedanib 150 mg|1
+niclosamide suspension|1
+niclosamide|1
+neuromuscular blocking agents|1
+nebulised unfractionated heparin (ufh)|1
+nebulised recombinant tissue-plasminogen activator (rt-pa)|1
+nebulised heparin|1
+nbt-nm108|1
+nasopharyngeal, oropharyngeal, or saliva swab|1
+nasal dexamethasone|1
+nangibotide|1
+naltrexone|1
+nafamostat mesylate|1
+nacl|1
+na-831and dexamethasone|1
+na-831 and atazanavir|1
+na-831|1
+mucodentol|1
+mstt1041a|1
+mrx-4dp0004|1
+mr or m-m-r ii ® vaccine|1
+mpt0b640|1
+moxifloxacin or levofloxacin|1
+montmorrillonite|1
+montelukast 10mg|1
+monalizumab|1
+mometasone furoate nasal spray|1
+molgramostim nebuliser solution|1
+mk-5475|1
+microcrystalline cellulose, nf|1
+microcannula harvest adipose derived tissue stromal vascular fraction (tsvf)|1
+methylprednisolone therapy|1
+methylprednisolone injectable product|1
+methylprednisolone 80 mg/ml injectable suspension|1
+methylene blue 5 mg/ml|1
+methotrexate|1
+metformin|1
+metenkefalin + tridecactide|1
+mesenchymal stromal stem cells - ki-msc-pl-205|1
+mesenchymal stem cell therapy|1
+mesenchymal cells|1
+merimepodib|1
+meplazumab for injection|1
+menacwy boost|1
+menacwy|1
+melphalan|1
+melatonin intravenous|1
+melatonin 2mg|1
+mefloquine + azithromycin + / - tocilizumab|1
+mefloquine|1
+mechanical ventilation|1
+measles-mumps-rubella vaccine|1
+mcn (methylene blue, vitamin c, n-acetyl cysteine)|1
+matching placebo|1
+matched placebo|1
+mas825|1
+maraviroc+favipiravir+ct|1
+maraviroc 300 mg|1
+maraviroc + currently used therapy|1
+maraviroc|1
+mannitol|1
+management of covid-19|1
+macrolide administered for up to 14 days|1
+macrolide administered for 3-5 days|1
+m5049|1
+ly3832479|1
+ly3127804|1
+lucinactant|1
+lsalt peptide|1
+lower-dose prophylactic anticoagulation|1
+low dose interferon-beta 1a|1
+low dose (10 mg) control|1
+lovenox 40 mg in 0.4 ml prefilled syringe|1
+losmapimod oral tablet|1
+lopinavir/ritonavir treatment|1
+lopinavir/ritonavir tablets or arbidol or chloroquine phosphate|1
+lopinavir/ritonavir group|1
+lopinavir/ritonavir 400 mg/100 mg|1
+lopinavir/ritonavir 200 mg-50 mg oral tablet|1
+lopinavir/ritonavir + hydoxychloroquine|1
+lopinavir/ ritonavir oral tablet|1
+lopinavir/ ritonavir|1
+lopinavir-ritonavir drug combination|1
+lopinavir and ritonavir|1
+lopinavir 200mg/ritonavir 50mg tab|1
+lopinavir 200mg/ritonavir 50mg ft test|1
+lopinavir 200mg/ritonavir 50mg ft reference|1
+lopinavir 200 mg / ritonavir 50 mg [kaletra]|1
+lopinavir / ritonavir, alpha-interferon nebulization,abidor hydrochloride|1
+lopinavir / ritonavir tablets combined with xiyanping injection|1
+lopinavir|1
+lmwh|1
+listerine mouthwash product|1
+liquid alpha1-proteinase inhibitor (human)|1
+liposomal lactoferrin|1
+linagliptin tablet|1
+linagliptin 5 mg|1
+linagliptin|1
+liberase enzyme (roche)|1
+lianhua qingwen|1
+levilimab|1
+levamisole pill + budesonide+formoterol inhaler|1
+levamisole|1
+lenalidomide as a 5 mg capsule po daily, days 1, 3, and 5.|1
+leaf-4l7520|1
+leaf-4l6715|1
+lb1148|1
+lau-7b|1
+late-dexamethasone|1
+late dexamethazone|1
+lanadelumab|1
+lambda 180 mcg s.c|1
+lactoferrin (apolactoferrin)|1
+lactoferrin|1
+l-citrulline|1
+kevzara sc|1
+ketotifen 1 mg|1
+ketamine|1
+janus kinase inhibitor (ruxolitinib)|1
+ivig|1
+ivermectin wth chloroquine|1
+ivermectin tablets|1
+ivermectin oral|1
+ivermectin nasal|1
+ivermectin injectable solution|1
+ivermectin 6 mg oral tablet (2 tablets)|1
+ivermectin 5 mg/ml|1
+ivermectin 3mg tab|1
+ivermectin + doxycycline|1
+ivermectin (ivm)|1
+ivermectin (iver p®) arm will receive ivm 600 µg / kg once daily plus standard care. control arm will receive standard care.|1
+iv tocillizumab (tcz)|1
+iv dexamethasone|1
+iv deployment of csvf in sterile normal saline iv solution|1
+itolizumab iv infusion|1
+isotretinoin(aerosolized 13 cis retinoic acid) +standard treatment|1
+isotretinoin only product in oral dose form|1
+isotonic saline 0.9%|1
+isotonic saline|1
+isoquercetin (iqc-950an)|1
+isoprinosine|1
+isoflurane inhalant product|1
+isis 721744|1
+iota-carrageenan|1
+iodine complex|1
+intravenous sedation|1
+intravenous immunoglobulin|1
+intravenous immune globulin|1
+intravenous drug|1
+intranasal heparin sodium (porcine)|1
+intermediate dose thromboprophylaxis|1
+intermediate dose enoxaparin/ unfractionated heparin|1
+interleukin-1 receptor antagonist|1
+interleukin 6 (il6) antagonist and corticosteroids|1
+interleukin 6 (il6) antagonist|1
+interferon-β1a|1
+interferon-β 1a|1
+interferon-ß-1a|1
+interferon-beta|1
+interferon-alpha2b|1
+interferon alfa|1
+insulin regimen|1
+insulin|1
+ino-4800|1
+ino (inhaled nitric oxide) delivered via the inopulse delivery system|1
+inm005|1
+inhaled type i interferon|1
+inhaled sedation|1
+inhaled nitric oxide gas|1
+inhaled nitric oxide (ino)|1
+inhaled iloprost|1
+inhaled hypertonic ibuprofen|1
+inhaled hydroxychloroquine|1
+inhaled budesonide|1
+inhalable hydroxychloroquine (hcq)|1
+infliximab|1
+indomethacin|1
+inc424 / ruxolitinib|1
+inactivated convalescent plasma|1
+immunosuppressive agents|1
+immunosuppressive|1
+immunoglubulins|1
+immunoglobulin of cured patients|1
+immunoglobulin|1
+imatinib tablets|1
+imatinib mesylate|1
+imatinib|1
+iloprost|1
+igiv|1
+icosapent ethyl (ipe)|1
+icatibant|1
+ibuprofen|1
+ibudilast|1
+hyperimmune plasma|1
+hyperimmune immunoglobulin to sars-cov-2 (hivig)|1
+hyperbaric oxygen|1
+hydroxychloroquine, lopinavir/ritonavir or azithromycin and placebo (standard therapy)|1
+hydroxychloroquine, doxycycline|1
+hydroxychloroquine, clindamycin, primaquine - low dose.|1
+hydroxychloroquine, clindamycin, primaquine - high dose.|1
+hydroxychloroquine, clindamycin|1
+hydroxychloroquine, azithromycin|1
+hydroxychloroquine sulfate tablets plus lopinavir/ ritonavir oral tablets|1
+hydroxychloroquine sulfate 600 mg twice a day|1
+hydroxychloroquine sulfate 600 mg once a day|1
+hydroxychloroquine sulfate 400 mg twice a day|1
+hydroxychloroquine sulfate 200 milligram (mg) tab|1
+hydroxychloroquine sulfate + azythromycin|1
+hydroxychloroquine sulfate + azithromycin|1
+hydroxychloroquine sulfate (hcq)|1
+hydroxychloroquine sulfate &azithromycin|1
+hydroxychloroquine sar321068|1
+hydroxychloroquine pre-exposure prophylaxis|1
+hydroxychloroquine plus standard preventive measures|1
+hydroxychloroquine placebo|1
+hydroxychloroquine pill|1
+hydroxychloroquine oral product|1
+hydroxychloroquine only product in oral dose form|1
+hydroxychloroquine in combination with camostat mesylate|1
+hydroxychloroquine in combination of azithromycin|1
+hydroxychloroquine combined with azithromycin|1
+hydroxychloroquine as post exposure prophylaxis|1
+hydroxychloroquine and azithromycin treatment arm.|1
+hydroxychloroquine and azithromycin treatment|1
+hydroxychloroquine , sofosbuvir, daclatasvir|1
+hydroxychloroquine + sorbitol|1
+hydroxychloroquine + placebo|1
+hydroxychloroquine + metabolic cofactor supplementation|1
+hydroxychloroquine + lopinavir/ritonavir|1
+hydroxychloroquine + azithromycin + / - tocilizumab|1
+hydroxychloroquine (placebo)|1
+hydroxychloroquin with azithromycin|1
+huaier granule|1
+honey|1
+hlx70|1
+high-titer anti-sars-cov-2 (covid 19) convalescent plasma|1
+high dose interferon-beta 1a|1
+hidroxicloroquine|1
+hidroxicloroquina|1
+hfno|1
+hesperidin and diosmin mixture|1
+heparin sodium|1
+heparin sc|1
+heparin infusion|1
+hcq+azt|1
+hcq & az vs hcq+sir|1
+hcq & az|1
+hb-admsc|1
+gx-19|1
+growth hormone|1
+group b control|1
+group a hcq|1
+group 2|1
+group 1|1
+glucose tablets|1
+gls-1200|1
+gimsilumab|1
+gc4419|1
+gargle/mouthwash|1
+garadacimab, factor xiia antagonist monoclonal antibody|1
+ganovo+ritonavir+/-interferon nebulization|1
+gamunex-c|1
+galidesivir|1
+fuzheng huayu tablet|1
+ft516|1
+fostamatinib|1
+fondaparinux|1
+fondapariniux|1
+folic acid|1
+fnc+standard of care|1
+fnc dummy tablet+standard of care|1
+fluvoxamine|1
+fixed-duration hydrocortisone|1
+fixed-duration higher dose hydrocortisone|1
+fixed-dose combination of pertuzumab and trastuzumab for subcutaneous administration (ph fdc sc)|1
+five-days oseltamivir|1
+fingolimod 0.5 mg|1
+favorable outcome|1
+favira 200 mg film tablet|1
+favir 200 mg ft|1
+favipiravir plus nitazoxanide|1
+favipiravir combined with tocilizumab|1
+favipiravir + standard of care|1
+favipiravir + currently used therapy|1
+favipiravir (3600 mg + 1600 mg)|1
+favipiravir (3200 mg + 1200 mg) combined with hydroxychloroquine|1
+favipiravir (3200 mg + 1200 mg) combined with azithromycin|1
+favipiravir (3200 mg + 1200 mg)|1
+favicovir 200 mg film tablet|1
+experimental group|1
+experimental drug|1
+exchange blood transfusion from normal donor|1
+etoposide|1
+ethanol with asprin|1
+estrogen therapy|1
+estradiol patch|1
+essential oils|1
+escin|1
+enzalutamide pill|1
+enzalutamide|1
+ensifentrine dose 1|1
+enoxaparin/lovenox intermediate dose|1
+enoxaparin sodium|1
+enoxaparin prophylactic dose|1
+enoxaparin prefilled syringe [lovenox]|1
+enoxaparin higher dose|1
+enoxaparin 40mg/0.4ml inj syringe 0.4ml|1
+enoxaparin 1 mg/kg|1
+emtricitabine/tenofovir disoproxil|1
+emtricitabine/tenofovir alafenamide 200 mg-25 mg oral tablet|1
+emtricitabine/tenofovir|1
+eltrombopag|1
+eicosapentaenoic acid gastro-resistant capsules|1
+eg-hpcp-03a|1
+edoxaban tablets|1
+dwj1248|1
+dutasteride|1
+dur-928|1
+duact|1
+drug isotretinoin (13 cis retinoic acid ) capsules+standard treatment|1
+doxycycline hcl|1
+double-blind nt-i7|1
+dose of tinzaparin or dalteparin|1
+dornase alfa inhalation solution|1
+dornase alfa|1
+dociparastat sodium|1
+disulfiram|1
+distilled water|1
+disease-modifying antirheumatic drugs (dmards)|1
+dipyridamole er 200mg/ aspirin 25mg orally/enterally and standard of care|1
+dipyridamole 100 milligram(mg)|1
+dipyridamole|1
+diphenhydramine|1
+dietary supplement containing resistant starch|1
+dialyzable leukocyte extract|1
+dfv890|1
+dexmedetomidine injectable product|1
+dexamethasone and hydroxychloroquine|1
+dexamethasone (high dose)|1
+desidustat|1
+desferal 500 mg injection|1
+deltarex-g|1
+degarelix|1
+defibrotide injection|1
+defibrotide 25 mg/kg 24 hours continuous infusion for 15 days|1
+defibrotide|1
+decitabine|1
+das181 ol|1
+das181 covid-19|1
+darunavir/cobicistat|1
+darunavir and cobicistat|1
+dapansutrile capsules|1
+dapagliflozin 10 mg|1
+dapagliflozin|1
+danoprevir+ritonavir|1
+daily vitamin d3|1
+daily placebo|1
+daclatasvir 60 mg|1
+daclatasvir 120 mg|1
+cyclosporin a|1
+cvncov vaccine|1
+curosurf® (poractant alfa)|1
+curently used therapy for covid-19 non-critical patients|1
+ct-p59|1
+csl324|1
+crest pro-health multi-protection mouthwash|1
+cpi-006|1
+cpap|1
+covid-19 treatment|1
+covid-19 standard care|1
+covid-19 convalscent plasma|1
+covid-19 convalescent plasma|1
+covi-guard|1
+corticosteroid nasal irrigation|1
+corticosteroid injection|1
+conventional treatment|1
+conventional oxygen|1
+conventional medicines (oxygen therapy, alfa interferon via aerosol inhalation, and lopinavir/ritonavir) and traditional chinese medicines (tcms) granules|1
+conventional medicines (oxygen therapy, alfa interferon via aerosol inhalation, and lopinavir/ritonavir)|1
+convalesscent plasma|1
+convalescent serum|1
+convalescent plasma (cp)|1
+convalescent anti-sars-cov-2 mbt plasma|1
+control arm|1
+continuous renal replacement therapy|1
+conestat alfa|1
+combined art/hydroxychloroquine|1
+combination of oral polio vaccine and na-831|1
+collagen-polyvinylpyrrolidone|1
+colchicine plus symptomatic treatment (paracetamol)|1
+colchicine pill|1
+colchicine 1 mg oral tablet|1
+colchicine 0.5 mg|1
+closys mouthwash|1
+clopidogrel 75mg|1
+clofazimine|1
+clevudine|1
+clazakizumab 25 mg|1
+clazakizumab 12.5 mg|1
+clarithromycin|1
+ck0802|1
+ciclesonide metered dose inhaler [alvesco]|1
+ciclesonide inhalation aerosol|1
+cholecalciferol 50,000 iu|1
+cholecalciferol 200,000 iu|1
+chlorpromazine (cpz)|1
+chlorpromazine|1
+chloroquine phosphate tablets|1
+chloroquine analog (gns651)|1
+chlorine dioxide 3000 ppm|1
+chemotherapy|1
+chadox1 ncov-19 half boost|1
+chadox1 ncov-19 full boost|1
+chadox1 ncov-19 0.5ml boost|1
+chadox1 ncov-19|1
+cerebrospinal fluid sampling, meningeal and brain parenchyma biopsies|1
+cerc-002|1
+cenicriviroc (cvc)|1
+cenicriviroc|1
+ceftriaxone|1
+ceftaroline|1
+cd24fc|1
+carrimycin|1
+captopril 25mg|1
+cannabis, medical|1
+candesartan|1
+canakinumab injection 600mg|1
+canakinumab injection 300mg|1
+canakinumab 150 mg/ml [ilaris]|1
+camostat mesylate|1
+camostat|1
+calcium channel blockers|1
+c21|1
+budesonide nasal|1
+budesonide dry powder inhaler|1
+budesonide|1
+bucillamine|1
+btl-tml-covid|1
+broncho-vaxom®|1
+bromhexine oral tablet and/or hydroxychloroquine tablet|1
+bromhexine hydrochloride tablets|1
+bromhexine hydrochloride|1
+bromhexine and spironolactone|1
+bromhexine 8 mg|1
+bromelain|1
+brii-198|1
+brii-196|1
+bridge therapy|1
+brexanolone|1
+brazilian green propolis extract (epp-af)|1
+bovine lipid extract surfactant|1
+botulinum neurotoxin|1
+bolus vitamin d3|1
+bolus placebo|1
+bms-986253|1
+blood for research purposes|1
+blood for pharmacokinetic samples|1
+blood for anti-drug antibody (ada)|1
+bld-2660|1
+bivalirudin injection|1
+biological|1
+bio101|1
+bio 300 oral suspension|1
+bgb-dxp593|1
+bgb dxp593|1
+bevacizumab|1
+best supportive care" which includes antivirals /antibiotics/ hydroxychloroquine; oxygen therapy|1
+best available treatment|1
+berberine|1
+bemiparin|1
+bdb-001 injection|1
+bat2020|1
+bat + calcifediol|1
+bat|1
+basic treatment|1
+base therapy|1
+baricitinib or anakinra|1
+baricitinib 4 mg oral tablet|1
+baricitinib (janus kinase inhibitor)|1
+bardoxolone methyl|1
+bacille calmette-guérin (bcg)|1
+azoximer bromide|1
+azithromycin with amoxicillin/clavulanate|1
+azithromycin capsule|1
+azithromycin and hydroxychloroquine|1
+azithromycin 500mg oral tablet|1
+azithromycin 500 milligram (mg) oral tablet|1
+azithromycin 250 mg oral capsule|1
+azithromycin 250 mg|1
+azithromycin (azithro)|1
+azinc|1
+azd1656|1
+azd1222|1
+avm0703|1
+aviptadil by intravenous infusion + standard of care|1
+aviptadil 67μg|1
+avigan 200 mg ft|1
+avigan|1
+avdoralimab|1
+auxora|1
+autologous non-hematopoietic peripheral blood stem cells (nhpbsc)|1
+atyr1923 3 mg/kg|1
+atyr1923 1 mg/kg|1
+atovaquone/azithromycin|1
+atorvastatin 40mg|1
+atorvastatin 20mg|1
+atorvastatin 20 mg oral tablet|1
+atorvastatin|1
+ati-450|1
+atazanavir and dexamethasone|1
+atazanavir|1
+atafenovir 200 mg kapsul|1
+at-527|1
+at-001|1
+astrostem-v|1
+association of diltiazem and niclosamide|1
+aspirin 81 mg|1
+aspirin 75mg|1
+aspirin 100mg|1
+asc09f+oseltamivir|1
+asc09/ritonavir group|1
+artesunate-amodiaquine|1
+artemisinin / artesunate|1
+artemisia annua leaf|1
+artemic|1
+artemesia annua|1
+argatroban|1
+arbidol hydrochloride granules|1
+arbidol 100 mg kapsul|1
+arbidol|1
+aprotinin|1
+aprepitant injectable emulsion|1
+apremilast|1
+apo-hydroxychloroquine|1
+apl-9|1
+apixaban 5mg|1
+apixaban 2.5 mg|1
+apixaban|1
+apilimod dimesylate capsule|1
+antroquinonol|1
+antihypertensive agents|1
+anticoagulation agents (edoxaban and/or high dose lmwh)|1
+anticoagulant therapy|1
+antibiotics|1
+anti-sars-cov-2 plasma|1
+anti-sars-cov-2 igy|1
+anti-sars-cov-2 equine immunoglobulin fragments (inosars)|1
+anti-sars-cov-2 convalescent plasma|1
+anti-covid-19 human immunoglobulin|1
+anluohuaxian|1
+angiotensin-converting enzyme inhibitors (ace-i) and angiotensin ii receptor blockers (arb)|1
+angiotensin-(1-7)|1
+angiotensin receptor blockers|1
+angiotensin receptor blocker|1
+angiotensin ii|1
+angiotensin converting enzyme inhibitor|1
+angiotensin 1-7|1
+analogs, prostaglandin e1|1
+anakinra prefilled syringe|1
+anakinra plus osoc|1
+anakinra and ruxolitinib (overcome stage 3)|1
+anakinra and ruxolitinib (advanced stage 3)|1
+anakinra alone (stages 2b/3)|1
+anakinra 149 mg/ml prefilled syringe [kineret]|1
+anakinra 100mg/0.67ml inj syringe|1
+anakinra +/- ruxolitinib (stages 2b/3)|1
+amy-101|1
+amoxicillin/clavulanate|1
+amoxicillin-clavulanate|1
+amlodipine|1
+amiodarone|1
+ambrisentan|1
+alvelestat|1
+alteplase 50 mg [activase]|1
+alteplase 100 mg [activase]|1
+alpha one antitrypsin inhalation|1
+almitrine|1
+allostim|1
+allogeneic mesenchymal stem cell|1
+allogeneic and expanded adipose tissue-derived mesenchymal stromal cells|1
+allogeneic and expanded adipose tissue-derived mesenchymal stem cells|1
+ak119|1
+aerosolized isotretinoin plus tamoxifen|1
+aerosolized dnase|1
+aerosolized all trans retinoic acid|1
+aerosolized 13 cis retinoic acid plus inhalation administration by nebulization captopril 25mg|1
+aerosolized 13 cis retinoic acid|1
+aerolized hydroxychloroquine sulfate|1
+active comparator|1
+aceis|1
+acei/arb|1
+acei|1
+ace inhibitors and calcium channel blockers|1
+ace inhibitor, angiotensin receptor blocker|1
+acalabrutinib treatment d|1
+acalabrutinib treatment c|1
+acalabrutinib treatment b|1
+acalabrutinib treatment a|1
+abx464|1
+abivertinib|1
+abidol hydrochloride combined with interferon atomization|1
+abatacept|1
+20 mg prednisone for 14 days|1
+18f-αvβ6-bp|1
+10% povidone-iodine nasal decolonization swab plus 0.12% chg oral rinse|1
+0.9%sodium chloride|1
+0.9%nacl|1
+0.9% sodium-chloride|1
+0.9% sodium chloride (normal saline)|1
+0.5% povidone/iodine oral/nasal rinse|1
+0.12% chlorhexidine oral/nasal rinse|1
+"vernonia amygdalina"|1
