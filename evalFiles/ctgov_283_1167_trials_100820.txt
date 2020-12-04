@@ -1,0 +1,283 @@
+﻿C0020336|Hydroxychloroquine*C2912166|Hydroxychloroquine Sulfate 200 MG*C0596007*Hydroxychloroquine Sulfate*C3218901|Hydroxychloroquine Pill*C3218900|Hydroxychloroquine Oral Product*C1244677|Hydroxychloroquine Oral Tablet*C0689151|Hydroxychloroquine Sulfate 200 MG Oral Tablet*C0699177|Plaquenil
+C0052796|Azithromycin*C0542997|Azithromycin 250 MG Oral Capsule*C0983950|Azithromycin 250 MG*C1245010|Azithromycin Oral Tablet*C3241414|Zithromax Oral Product
+C1609165|tocilizumab*C4019050|tocilizumab Injection*C4019050|tocilizumab Injection*C2731645|tocilizumab 20 MG/ML*C3692222|tocilizumab 180 MG/ML*C2740854|Actemra*C3272237|RoActemra
+C0022322|Ivermectin*C2746284|Ivermectin Injectable Solution*C0693766|Ivermectin 6 MG Oral Tablet*C2911900|Ivermectin 5 MG/ML*C0978016|Ivermectin 3 MG Oral Tablet*C3214716|Ivermectin Pill*C3214714|Ivermectin Oral Product
+C1138226|favipiravir
+C0939237|lopinavir / Ritonavir*C1675304|lopinavir / Ritonavir Oral Tablet*C3177223|lopinavir-ritonavir drug combination*C1644186|lopinavir 200 MG / Ritonavir 50 MG Oral Tablet*C0939357|Kaletra
+C0068788|nitazoxanide*C1378220|nitazoxanide Oral Tablet*C1378222|nitazoxanide 500 MG
+C0025815|Methylprednisolone*C0700546|Methylprednisolone Sodium Succinate*C3217794|Methylprednisolone Injectable Product*C1246927|Methylprednisolone Injectable Suspension
+C0206460|Enoxaparin*C1246056|Enoxaparin Injectable Solution*C2241229|0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe [Lovenox]*C0724579|Enoxaparin sodium*C1962308|Enoxaparin Prefilled Syringe*C0542838|0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe*C0728963|Lovenox
+C2349136|Vitamin C Vitamins|C0003968|Ascorbic Acid
+C0009262|Colchicine*C0742540|colchicine treatment*C3209937|Colchicine Pill*C0786121|Colchicine 1 MG Oral Tablet*C0985105|Colchicine 0.5 MG
+C0043481|Zinc*C0078794|Zinc Sulfate*C0772239|ZINC CITRATE
+C2931926|ruxolitinib*C3247911|ruxolitinib Oral Tablet*C3247919|ruxolitinib 5 MG
+C0011777|Dexamethasone*C0308803|dexamethasone injection
+C0126174|Losartan
+C0008269|Chloroquine|C0055447|chloroquine phosphate*C0700447|Chloroquine Sulfate*C1242247|Chloroquine Oral Tablet [Aralen Phosphate]*C3218470|Quinine Pill
+C0108225|camostate-mesilate*C0129975|camostat
+C4044947|baricitinib
+C0245109|anakinra*C3503018|anakinra 149 MG/ML Prefilled Syringe*C1962302|anakinra Prefilled Syringe*C1319690|0.67 ML anakinra 149 MG/ML Prefilled Syringe*C1170364|Kineret
+C0874161|Oseltamivir
+C0042866|Vitamin D*C0008318|Cholecalciferol*C0006657|Calcifediol
+C3885145|sarilumab
+C1739768|rivaroxaban
+C0032857|Povidone-Iodine*C2347652|Povidone-Iodine-Iodine Solution
+C2987425|mavrilimumab
+C0244713|interferon beta-1b
+C0254119|Interferon beta-1a
+C0013090|Doxycycline*C0771947|DOXYCYCLINE HYDROCHLORIDE
+C2003387|DAS181
+C4077748|clazakizumab
+C0019134|Heparin*C0037513|Heparin sodium*C2825026|Unfractionated Heparin [EPC]|C0019139|Heparin, Low-Molecular-Weight*C0982192|heparin sodium, porcine
+C0032952|Prednisone
+C0028128|Nitric Oxide*C1709228|Nitric Oxide-Releasing Compound*C2980685|Nitric Oxide 0.5 % / Nitrogen 99.5 % Gas for Inhalation
+C0025219|Melatonin
+C0020268|Hydrocortisone
+C2930696|tofacitinib
+C0248719|telmisartan
+C3852671|selinexor
+C0035525|Ribavirin*C1622085|Virazole
+C1879680|Remestemcel-L
+C4043002|peginterferon lambda-1a
+C3657270|nivolumab*C4034122|nivolumab Injection
+C0207682|nafamostat mesilate
+C0001047|Acetylcysteine
+C0010592|Cyclosporine
+C2718773|canakinumab*C4018806|canakinumab Injection*C2718754|Ilaris
+C0004886|BCG Vaccine
+C0004057|Aspirin
+C0003015|Angiotensin-Converting Enzyme Inhibitors*C0521942|Angiotensin II receptor antagonist*C0815017|Angiotensin Receptor Antagonists
+C4078312|acalabrutinib
+C0040613|Tranexamic Acid
+C2346927|Magnesium Cation
+C0076612|thymalfasin
+C0032113|Plasma Exchange*C0278347|Transfusion of plasma*C0544357|human plasma
+C0039736|Thalidomide
+C2976303|sofosbuvir*C3696663|sofosbuvir 400 MG
+C3252090|daclatasvir*C4047153|daclatasvir 60 MG
+C0072980|Sirolimus*C1129712|Sirolimus 1 MG/ML
+C0074554|Simvastatin
+C1609931|siltuximab
+C0074414|sevoflurane*C3213472|sevoflurane Inhalant Product
+C1098515|aviptadil
+C0556895|Combination electrotherapy
+C0052432|artesunate*C0052430|artemisinine*C4033451|Artemisia annua leaf extract
+C0072768|pyronaridine
+C0030899|Pentoxifylline
+C0030054|Oxygen*C0350411|Oxygen gas
+C3885146|olokizumab
+C1249284|Niclosamide Oral Tablet*C0028017|Niclosamide
+C0795760|Isoprinosin
+C0023556|Levamisole*C3217759|Levamisole Pill
+C0063041|leflunomide
+C0058978|icosapent ethyl
+C3501358|Ibrutinib
+C0021027|Immunoglobulins*C0358321|Immune Globulin (Human)*C0085297|Immunoglobulins, Intravenous*C1527233|Recombinant Immune Globulin*C0017007|Gamma globulin
+C0060397|fisetin
+C0015620|Famotidine*C0985942|Famotidine 20 MG
+C1541483|eculizumab
+C4053648|Monoacetyldiglyceride EC-18
+C0058903|ebselen
+C4079854|duvelisib
+C2348327|Dornase Alfa Inhalation Solution*C1135662|Dornase Alfa*C0251564|Pulmozyme
+C0011145|Deferoxamine*C0938996|deferoxamine mesylate 500 MG Injection [Desferal]
+C2703080|CYT107
+C0001617|Adrenal Cortex Hormones*C0038317|Steroids
+C0070166|clopidogrel
+C0907850|ciclesonide*C2344604|ciclesonide Metered Dose Inhaler*C1174745|Alvesco
+C0006863|Cannabidiol
+C0280509|brequinar
+C1164979|bicalutamide 150 MG Oral Tablet
+C0796392|bevacizumab*C4019040|bevacizumab Injection
+C4045537|XPro1595
+C0042874|Vitamin E
+C2936883|Vitamin B12 [EPC]*C0042849|Vitamin B Complex*C0016410|Folic Acid
+C0042523|Verapamil
+C0033567|Epoprostenol
+C0216784|valsartan*C0719949|Diovan
+C0080356|Valproate
+C0254211|arbidol
+C0077906|urinastatin
+C0041044|Trimethoprim-Sulfamethoxazole Combination
+C0113293|Dexmedetomidine*C3209013|Dexmedetomidine Injectable Product
+C1453926|trans-sodium crocetinate
+C0040610|Tramadol
+C0076836|Toremifene
+C0939487|Tnkase*C0872913|Tenecteplase
+C4081162|tirofiban Injection
+C0216278|tinzaparin
+C1098510|fondaparinux
+C0076316|tetrandrine
+C0909839|emtricitabine*C1331249|emtricitabine 200 MG
+C0384228|Tenofovir*C3713958|tenofovir alafenamide
+C1515884|Acupuncture and Oriental Medicine
+C0903411|tafenoquine
+C0085149|Tacrolimus
+C0076328|tetraphenylporphine sulfonate
+C0360714|Hydroxymethylglutaryl-CoA Reductase Inhibitors
+C0965129|rosuvastatin
+C0037982|Spironolactone
+C3851350|ledipasvir
+C0244221|Sn protoporphyrin
+C1565750|sitagliptin
+C3254570|sirukumab
+C0037135|Silymarin
+C0529793|sildenafil*C0724693|Sildenafil citrate
+C1720918|Herpes Zoster Vaccine
+C3872092|Cosentyx*C3872292|secukinumab 150 MG/M
+C3491198|Ruconest
+C0674432|lopinavir
+C0292818|Ritonavir
+C1434913|Rintatolimod
+C0021735|Interferon Alfa-2b
+C0061187|Gelsolin
+C0690272|Ramipril 2.5 MG Oral Capsule
+C1565316|ramelteon
+C0123091|quetiapine
+C0034392|Quercetin*C3891959|Isoquercetin
+C0034262|Pyridostigmine Bromide
+C0011522|Deoxyribonucleases
+C2984037|PTC299
+C0701947|Prolastin
+C0992824|Progesterone 100 MG
+C0032912|Prazosin
+C2710120|prasugrel 10 MG Oral Tablet
+C2348274|Dietary Nickel
+C2348268|Dietary Iodine
+C0722722|Povidine
+C0771648|Poractant alfa*C0111318|Curosurf
+C2716079|Polyoxidonium
+C0388638|aplidine
+C0250480|piperacillin-tazobactam combination
+C0071097|pioglitazone*C1127433|pioglitazone 30 MG
+C3658706|pembrolizumab*C3660977|MK-3475
+C3467842|pacritinib
+C0030095|Oxytocin
+C0682997|Monoterpenes
+C0028978|Omeprazole
+C0015689|Omega-3 Fatty Acids*C0000545|Eicosapentaenoic Acid
+C0112759|deglycyrrhizinated liquorice
+C1138839|Anise Seed Extract
+C0731209|Octagam
+C0063340|ifenprodil
+C1977391|Atazanavir+Ritonavir
+C3859348|nintedanib 150 MG*C3859342|Ofev
+C0032143|alteplase*C0701942|Activase
+C0027360|Naltrexone
+C1145759|Atazanavir
+C0065828|Measles-Mumps-Rubella Vaccine
+C0282386|Levofloxacin
+C0536495|moxifloxacin
+C0205679|Montmorrillonite
+C0298130|montelukast
+C1576970|Mometasone Nasal Spray
+C0218633|molgramostim
+C0025746|Methylene blue
+C0025677|Methotrexate
+C0025598|Metformin
+C2983984|Metenkefalin
+C0872278|stem cell therapy*C1706452|Stem cell product
+C1259637|Merimepodib
+C2003457|MenACWY
+C0025241|Melphalan
+C0025153|Mefloquine
+C1667052|maraviroc*C1965208|maraviroc 300 MG
+C1609686|lucinactant
+C3272847|losmapimod
+C0002191|alpha 1-Antitrypsin
+C0023828|Liposomes
+C2746078|Linagliptin*C3153993|Linagliptin 5 MG
+C1276807|Budesonide / formoterol
+C1629909|lenalidomide 5 MG
+C0052176|apolactoferrin
+C0008864|Citrulline
+C1132059|Ketotifen 1 MG
+C0022614|Ketamine
+C2987424|itolizumab
+C0022265|Isotretinoin*C3214141|Isotretinoin Oral Product*C3214143|Isotretinoin Topical Product
+C3864917|Interleukin-6 Antagonist [EPC]
+C0021743|Interferon Type I
+C0079594|Iloprost
+C0020740|Ibuprofen
+C0054201|Budesonide*C1968009|Budesonide Dry Powder Inhaler
+C0666743|infliximab
+C0021246|Indomethacin
+C0935989|imatinib*C0939537|Imatinib mesylate
+C0246269|icatibant
+C0123047|ibudilast
+C0008947|Clindamycin
+C0033126|Primaquine
+C0019392|Hesperidin
+C0012498|Diosmin
+C3815568|GC4419
+C0003250|Monoclonal Antibodies
+C1451114|Gamunex
+C2607355|fuzheng huayu
+C2713632|fostamatinib
+C0085228|Fluvoxamine
+C0728747|trastuzumab
+C1328025|pertuzumab
+C2938759|fingolimod 0.5 MG
+C0015133|Etoposide
+C0014912|Estradiol
+C0014838|Escin
+C3496793|enzalutamide*C3496796|enzalutamide Pill
+C2929052|emtricitabine / tenofovir disoproxil*C1532298|Emtricitabine + tenofovir
+C1831905|eltrombopag
+C2975435|edoxaban
+C0754659|Dutasteride
+C0206461|Dalteparin
+C0012772|Disulfiram
+C0732279|Aspirin / Dipyridamole
+C0012582|Dipyridamole
+C0012522|Diphenhydramine
+C2986418|Resistant Starch
+C1455035|degarelix
+C0057257|defibrotide
+C0049065|decitabine
+C3177235|cobicistat
+C1435444|darunavir
+C2353951|dapagliflozin*C3709918|dapagliflozin 10 MG
+C2973564|danoprevir
+C3195420|C1 esterase inhibitor (recombinant)
+C0008996|Clofazimine
+C0045212|Clevudine
+C0055856|Clarithromycin
+C0008286|Chlorpromazine
+C0007561|Ceftriaxone
+C2001521|ceftaroline
+C0006938|Captopril
+C0717550|candesartan
+C0006684|Calcium Channel Blockers
+C0073917|bucillamine
+C0006220|Bromhexine*C1245161|Bromhexine Oral Tablet*C0005647|Bromhexine Hydrochloride*C1126877|Bromhexine 8 MG
+C0293742|Stem bromelain
+C0033488|Propolis
+C1295507|Bontoxilysin
+C4034102|bivalirudin Injection
+C0005117|Berberine
+C0916062|bemiparin
+C0054066|Amoxicillin / Clavulanate
+C3500982|AZD1656
+C0165603|Atovaquone
+C0286651|atorvastatin*C0693628|atorvastatin 20 MG Oral Tablet
+C0012373|Diltiazem
+C0002641|Amodiaquine
+C0048470|argatroban
+C0003641|Aprotinin
+C1176306|aprepitant
+C1678805|apremilast
+C1831808|apixaban*C3530461|apixaban 2.5 MG
+C2983891|Apilimod
+C2742029|antroquinonol
+C0003018|Angiotensins*C0003009|Angiotensin II*C0103306|angiotensin I (1-7)
+C0002335|Alprostadil
+C0051696|Amlodipine
+C0002598|Amiodarone
+C1176329|ambrisentan
+C0002164|Almitrine
+C0039286|Tamoxifen
+C0011519|Deoxyribonuclease I
+C0040845|Tretinoin
+C1619966|abatacept
+C0989247|Prednisone 20 MG
