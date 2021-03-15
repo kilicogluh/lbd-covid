@@ -14,6 +14,7 @@ This repository contains source code related to the publication
 
 - `./data` directory contains input files
 - `./preprocessing` directory contains scripts for preparing data
+- `./filtering` directory contains scripts for filtering predications with BERT
 - `./models` directory contains scripts for knowledge graph completion
 - `./predictions` directory contains output files from graph completion models
 
@@ -24,7 +25,8 @@ This repository contains source code related to the publication
 3. Prepare `sub_rel_obj_pyear_edat_pmid_sent_id_sent.tsv.gz` file and place it into the `./data/SemMedDB` directory
 4. Download SemRepped [CORD-19](https://ii.nlm.nih.gov/SemRep_SemMedDB_SKR/COVID-19/index.shtml) dataset and extract files into `./data/cord-19 directory`
 5. Prepare SemMedDB and CORD-19 data using the `./preprocessing/run.sh` file
-6. Run Python notebooks in the `./models` directory
+6. Run Python notebooks in the `./filtering` directory
+7. Run Python notebooks in the `./models` directory
 
 ## Contact
 
